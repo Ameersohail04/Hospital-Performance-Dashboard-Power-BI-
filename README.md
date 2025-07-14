@@ -14,7 +14,7 @@ An interactive, multi-tab Power BI dashboard analyzing comprehensive hospital pe
 ## Files Included
 - `Hospital Dashboard.pbix`: Power BI Dashboard file
 - `hospital_data.xlsx`: Sample hospital dataset
-- `Requirement specs.pdf`: Project specifications
+- `Requirement specs...pdf`: Project specifications
 - `screenshots/`: Folder containing sample dashboard screenshots
 
 ## How to Use
