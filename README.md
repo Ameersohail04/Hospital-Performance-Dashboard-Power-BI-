@@ -22,10 +22,10 @@ An interactive, multi-tab Power BI dashboard analyzing comprehensive hospital pe
 2. Open with Power BI Desktop.
 3. Review the dashboard with provided sample data or connect your dataset.
 
-![Dashboard Overview](dashboard%20overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### Patient Analysis  
-![Patient Analysis](patient%20analysis.png)
+![Patient Analysis](patient-analysis.png)
 
 ### Doctor Analysis  
 ![Doctor Analysis](Doctor%20Analysis.png)
