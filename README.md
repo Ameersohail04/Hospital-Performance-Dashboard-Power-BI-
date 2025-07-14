@@ -23,4 +23,4 @@ An interactive, multi-tab Power BI dashboard analyzing comprehensive hospital pe
 3. Review the dashboard with provided sample data or connect your dataset.
 
 ## Author
-Your Name | [LinkedIn](#) | [Portfolio](#)
+Ameersohail | [LinkedIn](#) | [Portfolio](#)
